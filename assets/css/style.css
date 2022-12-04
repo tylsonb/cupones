@@ -1,0 +1,36 @@
+
+body{
+    font-family:'Roboto', sans-serif;
+}
+
+.nav-color, .form{
+    background-color: rgba(40, 167, 69, 1);
+}
+
+.p-descrip , h5{
+
+    color:#212529;
+    font:light 300 Roboto;
+    font-size: 20px;
+}
+
+a:link,
+a:visited,
+a:active {
+    margin-bottom: 10px;
+    text-decoration: none;
+    font-weight: 300;
+    color:#707070;
+}
+
+h3{
+    color:rgba(40, 167, 69, 1);
+    font:medium 500 Roboto;
+}
+
+h6{
+    color:#707070;
+    font:light 300 Roboto;
+    font-size: 16px;
+}
+
